@@ -27,7 +27,7 @@ class QuickVerifyPage extends Component {
                     <div className="skipOption">
                     <BrowserRouter>
                     <p> 
-                    <Link to="/shoppingpreferences">Skip </Link> </p>
+                    <Link to="/ShoppingPreferences">Skip </Link> </p>
                     </BrowserRouter> 
                     </div>
                     <p> Business Credit Card </p> <br />
